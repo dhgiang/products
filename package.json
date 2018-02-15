@@ -1,0 +1,25 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "List of export products using MEAN Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "keywords": [
+    "products",
+    "angular",
+    "MEAN",
+    "nodeJS",
+    "export",
+    "express"
+  ],
+  "author": "Duc Giang",
+  "license": "ISC"
+}
